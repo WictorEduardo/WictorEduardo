@@ -4,7 +4,7 @@ Eu sou <strong>Wictor Eduardo</strong>, <strong>Tenho 19 anos, moro em Recife, e
  
 
 - 🚀 Atualmente estou aprendendo: <strong>Java</strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
+<strong></strong>
 - 📣 Nós podemos falar em: <strong>Português</strong>
 
 <div align="center">
