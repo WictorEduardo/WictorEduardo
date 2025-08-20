@@ -1,6 +1,6 @@
 # [Wictor Eduardo] <img src="https://64.media.tumblr.com/aae2ab9bccd518420f90674356884d59/tumblr_o5hzrubi911udh5n8o1_500.gifv" width="50px">
 
-Eu sou <strong>Wictor Eduardo</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>Wictor Eduardo</strong>, <strong>Tenho 19 anos, moro em Recife, e estudo Análise e Desenvolvimento de Sistemas.</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
 - 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
