@@ -1,4 +1,4 @@
-# [Wictor Eduardo] <img src="https://64.media.tumblr.com/aae2ab9bccd518420f90674356884d59/tumblr_o5hzrubi911udh5n8o1_500.gifv" width="100px">
+# [Wictor Eduardo] <img src="https://64.media.tumblr.com/aae2ab9bccd518420f90674356884d59/tumblr_o5hzrubi911udh5n8o1_500.gifv" width="50px">
 
 Eu sou <strong>Wictor Eduardo</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
