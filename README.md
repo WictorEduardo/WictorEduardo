@@ -1,6 +1,6 @@
 # [Wictor Eduardo] <img src="https://64.media.tumblr.com/aae2ab9bccd518420f90674356884d59/tumblr_o5hzrubi911udh5n8o1_500.gifv" width="50px">
 
-Eu sou <strong>Wictor Eduardo</strong>, <strong>Tenho 19 anos, moro em Recife, e estudo Análise e Desenvolvimento de Sistemas.</strong> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPReIMG6qBsf5EeWHN124hOznyt3nPlPFq_g&s" width="50px">
+Eu sou <strong>Wictor Eduardo</strong>, <strong>Tenho 19 anos, moro em Recife, e estudo Análise e Desenvolvimento de Sistemas.</strong> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJCZLTuYiEVt-Sy7stVQNBQ_5evb75eWFGw&s" width="50px">
  
 
 - 🚀 Atualmente estou aprendendo: <strong>Java</strong> 
