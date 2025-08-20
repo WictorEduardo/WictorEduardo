@@ -1,4 +1,4 @@
-# [Wictor Eduardo] <img src="[https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif](https://images.app.goo.gl/Kydi4ExAmpf7rM6x9)" width="60px">
+# [Wictor Eduardo] <img src="(https://images.app.goo.gl/Kydi4ExAmpf7rM6x9)" width="60px">
 
 Eu sou <strong>Wictor Eduardo</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
