@@ -3,7 +3,7 @@
 Eu sou <strong>Wictor Eduardo</strong>, <strong>Tenho 19 anos, moro em Recife, e estudo Análise e Desenvolvimento de Sistemas.</strong> <img src="https://thumbs.dreamstime.com/b/smiley-e-o-computador-21013523.jpg" width="50px">
  
 
-- 🚀 Atualmente estou aprendendo: <strong>Java</strong> 
+- 🚀 Atualmente estou cursando: <strong>O primeiro periodo de ADS.</strong> 
 <strong></strong>
 - 📣 Nós podemos falar em: <strong>Português</strong>
 
