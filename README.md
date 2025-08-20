@@ -1,4 +1,4 @@
-# [Wictor Eduardo] <img src="https://images.app.goo.gl/Kydi4ExAmpf7rM6x9)](https://videos.cults3d.com/UtXcB9tdTB0_Ic5qjO7q60FHsQg=/516x516/filters:no_upscale()/https://fbi.cults3d.com/uploaders/17754243/illustration-file/7285398c-149d-434d-8fc2-cc3608dc2f37/High-Res.gif](https://images.app.goo.gl/X6Pp8hVcznqBRgxy9" width="500px">
+# [Wictor Eduardo] <img src="https://64.media.tumblr.com/aae2ab9bccd518420f90674356884d59/tumblr_o5hzrubi911udh5n8o1_500.gifv" width="500px">
 
 Eu sou <strong>Wictor Eduardo</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
